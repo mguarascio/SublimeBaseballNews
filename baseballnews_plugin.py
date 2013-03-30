@@ -9,7 +9,7 @@ config - apikey, favorite team
 additional features - latest scores in status bar
 '''
 
-apikey = '7rjyq97u3smpqbb948prjk7w'
+apikey = ''
 api = holycow.API(apikey)
 teamlinkcache = {}
 
