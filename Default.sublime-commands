@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "BaseballNews: Latest Stories",
+        "command": "baseball_news"
+    },
+    {
+        "caption": "BaseballNews: Scores",
+        "command": "baseball_scores"
+    }
+]

@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["super+b"], "command": "baseball_news",
+        "keys": ["super+ctrl+s"], "command": "baseball_scores"
+    }
+]
