@@ -3,6 +3,8 @@ import sublime_plugin
 from lib import holycow
 
 '''
+NOTE: The scores data will most likely not work until ESPNAPI fully opens it to the public.
+
 TODO:
 config - apikey, favorite team
 
